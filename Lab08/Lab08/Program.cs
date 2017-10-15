@@ -4,7 +4,7 @@ using System.Collections;
 namespace ArrayListDemo
 {
     class Program
-    {
+    { 
         static void Main(string[] args)
         {
             ArrayList list1 = new ArrayList();
