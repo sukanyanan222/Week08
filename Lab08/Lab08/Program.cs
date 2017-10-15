@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab08
+namespace ArrayListDemo
 {
     class Program
     {
         static void Main(string[] args)
         {
-           ArrayList list = new ArrayList();
+          ArrayList = new ArrayList();
             Console.WriteLine("Create a list");
             Console.WriteLine("List capacity = {0,2}", list.Capacity);
             for (int i = 0; i < 100; i++)
